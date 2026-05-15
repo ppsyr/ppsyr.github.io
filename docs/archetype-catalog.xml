@@ -3,12 +3,10 @@
     xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
-
     <archetype>
       <groupId>learn.ai</groupId>
       <artifactId>ai-agent-scaffold-archetype</artifactId>
       <version>1.0</version>
-      <repository>https://packages.aliyun.com/maven/repo-oxaxe/artifacts?artifactOrg=learn.ai&artifactName=ai-agent-scaffold-archetype&version=1.0</repository>
       <description>Parent pom providing dependency and plugin management for applications built with Maven</description>
     </archetype>
   </archetypes>
